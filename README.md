@@ -2,7 +2,7 @@
 
 Simple roguelike on the terminal
 
-#Features to be added:
+# Features to be added:
 randomly generated:
 -NPCs
 -enemies
